@@ -1,9 +1,11 @@
 /*  your css code here. If applicable */
-.container{
+.hero{
+	width:100px;
 	display:flex;
-	justify-content:center;
+	justify-content:space-between;
 	align-items:center;
-	flex-direction:column
+	flex-direction:column;
+	gap:30px;
 }
 
 img{
